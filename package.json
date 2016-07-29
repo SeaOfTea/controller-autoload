@@ -1,0 +1,11 @@
+{
+  "name": "controller-autoload",
+  "version": "0.0.1",
+  "description": "Autoload all the packages in a certain directory. Useful for loading restify controllers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Constantine",
+  "license": "ISC"
+}

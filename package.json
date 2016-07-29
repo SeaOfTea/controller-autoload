@@ -1,6 +1,6 @@
 {
   "name": "controller-autoload",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Autoload all the packages in a certain directory. Useful for loading restify controllers.",
   "main": "index.js",
   "scripts": {
